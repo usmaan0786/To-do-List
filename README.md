@@ -1,3 +1,7 @@
+A to-do list web app is a tool that allows users to create and manage lists of products, tasks or activities that they need to complete. The app typically provides a simple and intuitive interface for users to create new tasks, set due dates, add notes or descriptions.
+
+User can delete data by simple click on the entries.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
