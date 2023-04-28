@@ -4,10 +4,10 @@ User can delete data by simple click on the entries.
 
 ## User Interface
 
-![Screenshot 2023-04-28 103537](https://user-images.githubusercontent.com/72275107/235063154-8f515e29-a5f5-4a85-bc7b-65a46abe0390.png)
+
 ![Screenshot 2023-04-28 103438](https://user-images.githubusercontent.com/72275107/235063158-a41f6a4b-4444-4cfc-9f88-b794391ce38d.png)
 ![Screenshot 2023-04-28 103515](https://user-images.githubusercontent.com/72275107/235063161-94ffb4eb-38b2-4706-9ba5-6d02b583cc70.png)
-
+![Screenshot 2023-04-28 103537](https://user-images.githubusercontent.com/72275107/235063154-8f515e29-a5f5-4a85-bc7b-65a46abe0390.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
