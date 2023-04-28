@@ -3,11 +3,10 @@ A to-do list web app is a tool that allows users to create and manage lists of p
 User can delete data by simple click on the entries.
 
 ## User Interface
-<h1 style="color:blue;">A Blue Heading</h1>
 
-![Screenshot 2023-04-28 102959](https://user-images.githubusercontent.com/72275107/235062281-62f68892-5d55-43ca-b0f9-5f230ad43896.png)
-![Screenshot 2023-04-28 103019](https://user-images.githubusercontent.com/72275107/235062289-6d811a78-328e-423d-abbf-02cd5a98c4e2.png)
-![Screenshot 2023-04-28 102929](https://user-images.githubusercontent.com/72275107/235062292-3bfdd66c-e02c-4191-bf52-3d3ed318c73a.png)
+![Screenshot 2023-04-28 103537](https://user-images.githubusercontent.com/72275107/235063154-8f515e29-a5f5-4a85-bc7b-65a46abe0390.png)
+![Screenshot 2023-04-28 103438](https://user-images.githubusercontent.com/72275107/235063158-a41f6a4b-4444-4cfc-9f88-b794391ce38d.png)
+![Screenshot 2023-04-28 103515](https://user-images.githubusercontent.com/72275107/235063161-94ffb4eb-38b2-4706-9ba5-6d02b583cc70.png)
 
 # Getting Started with Create React App
 
