@@ -3,7 +3,7 @@ A to-do list web app is a tool that allows users to create and manage lists of p
 User can delete data by simple click on the entries.
 
 ## User Interface
-<h2> Usman</h2>
+<h2 style = "align : center"> Usman</h2>
 
 ![Screenshot 2023-04-28 102959](https://user-images.githubusercontent.com/72275107/235062281-62f68892-5d55-43ca-b0f9-5f230ad43896.png)
 ![Screenshot 2023-04-28 103019](https://user-images.githubusercontent.com/72275107/235062289-6d811a78-328e-423d-abbf-02cd5a98c4e2.png)
