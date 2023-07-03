@@ -8,7 +8,7 @@ Here first we entered data in input box.
 ![Screenshot 2023-04-28 103438](https://user-images.githubusercontent.com/72275107/235063158-a41f6a4b-4444-4cfc-9f88-b794391ce38d.png)
 By clicking Add data is entered in the list
 ![Screenshot 2023-04-28 103515](https://user-images.githubusercontent.com/72275107/235063161-94ffb4eb-38b2-4706-9ba5-6d02b583cc70.png)
-on click on the enteries data is deleted
+on click on the entered data is deleted
 ![Screenshot 2023-04-28 103537](https://user-images.githubusercontent.com/72275107/235063154-8f515e29-a5f5-4a85-bc7b-65a46abe0390.png)
 # Getting Started with Create React App
 
